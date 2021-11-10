@@ -12,8 +12,7 @@
 
 ![Afonso github stats](https://github-readme-stats.vercel.app/api?username=AfonsoFeliciano)
 
-## Experiência em Projetos 
-Business Intelligence envolvendo os sistemas:
+## Experiência em Projetos de Business Intelligence envolvendo os sistemas:
 - ERP Protheus
 - RM Totvs
 - Atlassian (Jira Service Desk, Jira Software e Jira Cloud) 
