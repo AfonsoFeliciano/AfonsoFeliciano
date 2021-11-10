@@ -12,7 +12,7 @@
 
 ![Afonso github stats](https://github-readme-stats.vercel.app/api?username=AfonsoFeliciano)
 
-### Experiência em Projetos 
+## Experiência em Projetos 
 Business Intelligence envolvendo os sistemas:
 - ERP Protheus
 - RM Totvs
@@ -25,12 +25,12 @@ Business Intelligence envolvendo os sistemas:
 
 
 
-#### Formação
+## Formação
 - Pós-graduado em Modelagem Científica e Tecnológica através do Instituto de Ciências Sociais Aplicadas (ICSA), da UNIFAL-MG, e docentes do CEFET-MG, campus de Varginha. 
 - Graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário do Sul de Minas - UNIS/MG onde foi aluno destaque conquistando a premiação de Honra ao Mérito Universitário. 
 - Formação Técnica em Redes de Computadores pelo Centro Universitário do Sul de Minas - UNIS/MG.
 
-### Hard Skills:
+## Hard Skills:
 [![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![PL SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
@@ -50,7 +50,7 @@ Business Intelligence envolvendo os sistemas:
 - Ferramentas de apoio: Power Automate, Excel, Figma, Git, Tex, Python para análise de dados
 - Estudos autônomos: Azure Data Factory, Azure Synapse, Azure Analysis Services, Databricks
 
-### Soft Skills:
+## Soft Skills:
 - Capacidade de atuação em diversas frentes (Multitask)
 - Pensamento crítico
 - Autonomia e criatividade
