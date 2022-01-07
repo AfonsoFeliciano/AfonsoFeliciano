@@ -10,7 +10,10 @@
 
 ### Meu objetivo é resolver problemas de negócio de Business Intelligence e participar de projetos de Engenharia de Dados.
 
-![Afonso github stats](https://github-readme-stats.vercel.app/api?username=AfonsoFeliciano)
+![Afonso github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoFeliciano&locale=pt-br&theme=tokyonight)
+![Afonso github stats](https://github-readme-stats.vercel.app/api?username=AfonsoFeliciano&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=tokyonight)
+
+
 
 ## Experiência em Projetos de Business Intelligence envolvendo os sistemas:
 - ERP Protheus
