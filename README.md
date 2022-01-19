@@ -33,13 +33,14 @@
 - Formação Técnica em Redes de Computadores pelo Centro Universitário do Sul de Minas - UNIS/MG.
 
 ## Hard Skills:
+[![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![PL SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
-[![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
