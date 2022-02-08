@@ -21,8 +21,8 @@
 - Atlassian (Jira Service Desk, Jira Software e Jira Cloud) 
 - Salesforce
 - Kenoby
-- Teknovus
-- iCoreView
+- Qulture Rocks
+- ABADI/JDE
 - Sistemas da Receita Federal tais como Siscomex, Mercante
 
 
