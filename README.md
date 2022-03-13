@@ -25,6 +25,18 @@
 - ABADI/JDE
 - Sistemas da Receita Federal tais como Siscomex, Mercante
 
+## Atuação Profissional 
+
+- Engenheiro de Dados e Analista de BI - Radix - (11/2021 - até o momento)
+- Analista de BI - Sinqia - (08/2021 - 11/2021)
+- Analista de Dados - Axxin Data Intelligence - (03/2020 - 07/2021)
+- Assistente de TI - Centro Universitário do Sul de Minas - (09/2018 - 03/2020)
+- Assistente de Telecomunicações - FIT Networks - (01/2017 - 09/2018)
+- Auxiliar de Processos Acadêmicos - Centro Universitário do Sul de Minas - (05/2016 - 01/2017)
+- Assistente Administrativo de TI - Centro Universitário do Sul de Minas - (04/2015 - 05/2016)
+- Estagiário de TI -  Centro Universitário do Sul de Minas - (08/2014 - 03/2015)
+- Jovem Aprendiz - Cooper Standard - (01/2013 - 12/2013)
+
 
 
 ## Formação
