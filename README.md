@@ -48,7 +48,6 @@
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
-[![PL SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.com/AfonsoFeliciano/AfonsoFeliciano/edit/main/README.md)
