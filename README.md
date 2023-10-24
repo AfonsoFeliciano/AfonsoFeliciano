@@ -26,8 +26,8 @@
 - Sistemas da Receita Federal tais como Siscomex, Mercante
 
 ## Atuação Profissional 
-
-- Engenheiro de Dados e Analista de BI - Radix - (11/2021 - até o momento)
+- Engenheiro de Dados - NTT Data Europe & Latam - (12/2022 até o momento)
+- Engenheiro de Dados - Radix - (11/2021 - 12/2022)
 - Analista de BI - Sinqia - (08/2021 - 11/2021)
 - Analista de Dados - Axxin Data Intelligence - (03/2020 - 07/2021)
 - Assistente de TI - Centro Universitário do Sul de Minas - (09/2018 - 03/2020)
