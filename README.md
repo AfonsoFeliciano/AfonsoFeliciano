@@ -8,10 +8,29 @@
 
 ## Eu sou Especialista BI e atualmente Engenheiro de Dados Azure.
 
-### Meu objetivo é resolver problemas de negócio de Business Intelligence e participar de projetos de Engenharia de Dados.
+### Meu objetivo é resolver problemas de negócio de Business Intelligence e de Engenharia de Dados.
 
 ![Afonso github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoFeliciano&locale=pt-br&theme=tokyonight)
 ![Afonso github stats](https://github-readme-stats.vercel.app/api?username=AfonsoFeliciano&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=tokyonight)
+
+## Certificações e Badges
+
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/2a8004c7-2f1f-41f8-bad8-49a0bd9aa8af)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/c2b1337f-e689-4af3-80d3-48b47cd84e59)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/52351bfe-cf71-44fb-99b4-9ff49e204ca9)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/fdea6a9a-9507-407c-8230-a021bef49548)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/d207df71-63ed-400e-9021-bd7d08a7bb4a)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/dd0f812d-442b-4117-97f0-d19c9097a356)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/09a4f1a2-ee12-4327-800d-0d2c259abf4f)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/c282c610-c69d-405e-a3dc-b8cec9defc86)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/b03cd5db-de10-4df6-94cf-0524cf119809)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/a6e4f4ed-5be6-4105-a7d3-2e194fe9f62c)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/c217f819-f79a-46c7-91e1-bc9dbd9a256c)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/a515fc06-4efb-4e3c-b682-b94717d6c637)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/679f11a8-83be-4012-87db-e02fceec973a)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/3d7b8ff8-dbff-445c-abad-2ff37dd481c7)
+![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/e87b2338-4a96-4841-99d4-02527d448905)
+
 
 
 
