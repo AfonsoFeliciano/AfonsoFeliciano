@@ -15,7 +15,7 @@
 
 ## Certificações e Badges
 
-
+![imgage](https://github.com/AfonsoFeliciano/AfonsoFeliciano/blob/cddd72ca70c53ffe248227badb4efc80f3afc849/Screenshot_9.png?raw=true)
 ![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/2a8004c7-2f1f-41f8-bad8-49a0bd9aa8af)
 ![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/c2b1337f-e689-4af3-80d3-48b47cd84e59)
 ![image](https://github.com/AfonsoFeliciano/AfonsoFeliciano/assets/23621130/52351bfe-cf71-44fb-99b4-9ff49e204ca9)
