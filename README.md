@@ -6,7 +6,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5535997103985)](https://wa.me/5535997103985)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AfonsoFeliciano)](https://github.com/AfonsoFeliciano)
 
-## Eu sou Especialista BI e atualmente Engenheiro de Dados Azure.
+## Eu sou Engenheiro de Dados e Especialista em BI.
 
 ### Meu objetivo é resolver problemas de negócio de Business Intelligence e de Engenharia de Dados.
 
