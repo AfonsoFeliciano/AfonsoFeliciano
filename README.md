@@ -341,7 +341,7 @@ Profissional de TI com **10+ anos de experiência**, sendo **7+ anos dedicados �
 
 | 🎓 Nível | 📚 Curso | 🏫 Instituição | 📅 Período | ✅ Status |
 |:---:|---|---|:---:|---|
-| **MBA** | Engenharia de Dados e Inteligência Artificial | Xperiun | 2026 - 2027 | Em Curso |
+| **MBA** | Engenharia de Dados e Inteligência Artificial | Xperiun | 2026 - 2027 | 🔄 Em Curso |
 | **MBA** | Business Intelligence & Analytics | Xperiun | 2025 - 2026 | ✅ Concluído |
 | **Pós-Grad** | Modelagem em C&T | UNIFAL-MG & CEFET-MG | 2018 - 2020 | ✅ Concluído |
 | **Graduação** | Análise e Dev de Sistemas | UNIS | 2016 - 2018 | 🏅 Honra ao Mérito |
@@ -612,7 +612,7 @@ Architect and implement scalable data solutions with high performance and robust
 
 | 🎓 Level | 📚 Course | 🏫 Institution | 📅 Period | ✅ Status |
 |:---:|---|---|:---:|---|
-| **MBA** | Data Engineering & Artificial Intelligence | Xperiun | 2026 - 2027 | In Progress |
+| **MBA** | Data Engineering & Artificial Intelligence | Xperiun | 2026 - 2027 | 🔄 In Progress |
 | **MBA** | Business Intelligence & Analytics | Xperiun | 2025 - 2026 | ✅ Completed |
 | **Post-Grad** | Scientific & Technological Modeling | UNIFAL-MG & CEFET-MG | 2018 - 2020 | ✅ Completed |
 | **Bachelor** | Systems Analysis & Development | UNIS | 2016 - 2018 | 🏅 Merit Award |
