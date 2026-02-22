@@ -43,8 +43,18 @@ Arquitetar e implementar soluções de dados escaláveis, com alta performance e
 
 ### 📊 Estatísticas GitHub
 
-![Afonso github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoFeliciano&locale=pt-br&theme=tokyonight&layout=compact)
-![Afonso github stats](https://github-readme-stats.vercel.app/api?username=AfonsoFeliciano&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=tokyonight)
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=AfonsoFeliciano&color=0078D4&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/AfonsoFeliciano?style=for-the-badge&logo=github&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/AfonsoFeliciano?style=for-the-badge&logo=github&label=Stars)
+
+**📈 Linguagens Principais:**
+- Python | T-SQL | PySpark | SQL | DAX | Power Query
+
+**⭐ Veja meu portfólio:** [github.com/AfonsoFeliciano](https://github.com/AfonsoFeliciano)
+
+</div>
 
 ### 💼 Experiência Profissional
 
@@ -337,8 +347,18 @@ Architect and implement scalable data solutions with high performance and robust
 
 ### 📊 GitHub Statistics
 
-![Afonso github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoFeliciano&theme=tokyonight&layout=compact)
-![Afonso github stats](https://github-readme-stats.vercel.app/api?username=AfonsoFeliciano&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=AfonsoFeliciano&color=0078D4&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/AfonsoFeliciano?style=for-the-badge&logo=github&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/AfonsoFeliciano?style=for-the-badge&logo=github&label=Stars)
+
+**📈 Main Languages:**
+- Python | T-SQL | PySpark | SQL | DAX | Power Query
+
+**⭐ Check my portfolio:** [github.com/AfonsoFeliciano](https://github.com/AfonsoFeliciano)
+
+</div>
 
 ### 💼 Professional Experience
 
