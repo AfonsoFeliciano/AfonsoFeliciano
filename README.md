@@ -1,62 +1,107 @@
 <div align="center">
 
-# 👋 Afonso de Paula Feliciano
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=👋+Afonso+de+Paula+Feliciano;Data+Engineer+|+Cloud+Architect;Azure+|+Databricks+|+Big+Data" alt="Typing SVG" />
 
-**Data Engineer & BI Specialist** | Cloud & Big Data Architect
+**🏗️ Data Engineer & BI Specialist | Cloud & Big Data Architect**
 
-![Profile views](https://komarev.com/ghpvc/?username=AfonsoFeliciano&color=blue&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/AfonsoFeliciano?style=flat-square&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/AfonsoFeliciano?style=flat-square&logo=github)
+![Profile views](https://komarev.com/ghpvc/?username=AfonsoFeliciano&color=0078D4&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/AfonsoFeliciano?style=for-the-badge&logo=github&logoColor=white&labelColor=0078D4)
+![GitHub stars](https://img.shields.io/github/stars/AfonsoFeliciano?style=for-the-badge&logo=github&logoColor=white&labelColor=0078D4)
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🌐 Escolha seu Idioma | Choose Your Language
 
-| 🇧🇷 Português | 🇬🇧 English |
-|:---:|:---:|
-| **[Leia em Português](#-português)** | **[Read in English](#-english)** |
-
----
+[![Portuguese](https://img.shields.io/badge/🇧🇷_Português-Link_Abaixo-0078D4?style=for-the-badge)](README.md#-português)
+[![English](https://img.shields.io/badge/🇬🇧_English-Link_Below-0078D4?style=for-the-badge)](README.md#-english)
 
 </div>
+
+---
 
 ### 📌 Português
 <details open>
 <summary><h2>✨ Quem Sou</h2></summary>
 
+> 🎯 **Missão:** Arquitetar soluções de dados escaláveis e de alto desempenho que transformem dados em inteligência estratégica.
+
 Profissional de TI com **10+ anos de experiência**, sendo **7+ anos dedicados à Engenharia de Dados** em ambientes Cloud e On-Premises com foco em **Microsoft Azure**. Especialista em arquitetura de dados moderna (**Data Lakehouse, DataMesh, Medallion Architecture**), processamento distribuído com **Databricks** e **Spark** (PySpark, SQL) e automação de pipelines **ETL/ELT** escaláveis, sustentando soluções de alto desempenho com governança de dados corporativa.
 
-**Expertise técnico:**
-- 🏗️ Arquitetura de dados moderna (Data Lakehouse, Data Mesh, Medallion)
-- ☁️ Cloud data engineering com Azure, Databricks, Snowflake
-- ⚡ Processamento distribuído: Spark, PySpark, Apache Airflow
-- 🔧 Orquestração avançada: Azure Data Factory, Databricks Workflows, Airflow
-- 📊 Modelagem relacional e dimensional para Data Warehouse
-- 🎯 Otimização de performance e custo em ambientes Big Data
-- 🔐 Governança de dados: Unity Catalog, Data Mesh patterns
-- 🚀 DevOps & IaC: Terraform, Azure DevOps, CI/CD, GitHub
+#### 🚀 Áreas de Expertise
 
-### 🎯 Objetivo
-Arquitetar e implementar soluções de dados escaláveis, com alta performance e governança robusta, transformando dados brutos em inteligência estratégica de negócio.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🏗️ Arquitetura</h4>
+      <p>Data Lakehouse<br>Data Mesh<br>Medallion Architecture</p>
+    </td>
+    <td align="center" width="50%">
+      <h4>☁️ Cloud & Big Data</h4>
+      <p>Azure<br>Databricks<br>Snowflake</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>⚡ Processamento</h4>
+      <p>Spark<br>PySpark<br>Apache Airflow</p>
+    </td>
+    <td align="center" width="50%">
+      <h4>🔐 Governança</h4>
+      <p>Unity Catalog<br>Data Mesh<br>Data Quality</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>📊 Pipelines</h4>
+      <p>ETL/ELT<br>Streaming<br>CDC/CDF</p>
+    </td>
+    <td align="center" width="50%">
+      <h4>🚀 DevOps</h4>
+      <p>Terraform<br>Azure DevOps<br>CI/CD</p>
+    </td>
+  </tr>
+</table>
 
 </details>
+
+---
 
 ### 📊 Estatísticas GitHub
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=AfonsoFeliciano&color=0078D4&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/AfonsoFeliciano?style=for-the-badge&logo=github&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/AfonsoFeliciano?style=for-the-badge&logo=github&label=Stars)
+![GitHub followers](https://img.shields.io/github/followers/AfonsoFeliciano?style=for-the-badge&logo=github&logoColor=white&labelColor=0078D4)
+![GitHub stars](https://img.shields.io/github/stars/AfonsoFeliciano?style=for-the-badge&logo=github&logoColor=white&labelColor=0078D4)
 
 **📈 Linguagens Principais:**
-- Python | T-SQL | PySpark | SQL | DAX | Power Query
 
-**⭐ Veja meu portfólio:** [github.com/AfonsoFeliciano](https://github.com/AfonsoFeliciano)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T-SQL-CC2927?style=flat-square&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=white)
+![Power_Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logoColor=white)
+
+[⭐ Veja meu portfólio →](https://github.com/AfonsoFeliciano)
 
 </div>
 
-### 💼 Experiência Profissional
+---
+
+## 💼 Experiência Profissional
+
+<div align="center">
+
+> **10+ anos em TI | 7+ anos em Data Engineering | 6+ empresas | Múltiplas indústrias**
+
+</div>
+
+---
 
 #### 🏢 **NTT DATA Europe & Latam** | Engenheiro de Dados *(Dezembro 2022 - Presente | 3a 3m)*
 
@@ -194,9 +239,12 @@ Arquitetar e implementar soluções de dados escaláveis, com alta performance e
 
 ---
 
-### 🛠️ Conhecimentos Técnicos
+## 🛠️ Conhecimentos Técnicos
 
-#### ☁️ Cloud & Data Engineering
+<div align="center">
+
+### ☁️ Cloud & Data Engineering
+
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
@@ -204,7 +252,7 @@ Arquitetar e implementar soluções de dados escaláveis, com alta performance e
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logoColor=white)
 
-#### 🛢️ Banco de Dados
+### 🛢️ Banco de Dados
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -212,24 +260,28 @@ Arquitetar e implementar soluções de dados escaláveis, com alta performance e
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![CosmosDB](https://img.shields.io/badge/Azure%20CosmosDB-0078D4?style=for-the-badge&logoColor=white)
 
-#### 📊 Orquestração & Pipelines
+### 📊 Orquestração & Pipelines
+
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logoColor=white)
 ![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF6849?style=for-the-badge&logo=dbt&logoColor=white)
 
-#### 📈 Visualização & Analytics
+### 📈 Visualização & Analytics
+
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Analysis Services](https://img.shields.io/badge/Analysis%20Services-0078D4?style=for-the-badge&logoColor=white)
 
-#### 💻 Linguagens & Frameworks
+### 💻 Linguagens & Frameworks
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logoColor=white)
 
-#### 🚀 DevOps & Infrastructure
+### 🚀 DevOps & Infrastructure
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -237,13 +289,15 @@ Arquitetar e implementar soluções de dados escaláveis, com alta performance e
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
-#### 🔧 Ferramentas & Plataformas
+### 🔧 Ferramentas & Plataformas
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)
 
-#### 🎯 Arquitetura & Padrões
+### 🎯 Arquitetura & Padrões
+
 - **Data Lakehouse** (Medallion Architecture)
 - **Data Mesh** patterns
 - **ETL/ELT/ELTL** workflows
@@ -253,46 +307,49 @@ Arquitetar e implementar soluções de dados escaláveis, com alta performance e
 - **Data Quality** (Freshness, Integrity)
 - **Performance Optimization** (Shuffle, Spill, Caching)
 
+</div>
+
 ### 🎓 Certificações & Conquistas
 
-#### Databricks Certified
+<div align="center">
+
+#### 🏆 Databricks Certified
+
 ![Databricks Data Engineer Professional](https://img.shields.io/badge/Databricks%20Certified-Data%20Engineer%20Professional-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Databricks Data Engineer Associate](https://img.shields.io/badge/Databricks%20Certified-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 
-#### Microsoft Certified
+#### 🏆 Microsoft Certified
+
 ![Azure Data Engineer Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Engineer%20Associate-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-#### Other Certifications
+#### 🏆 Other Certifications
+
 ![Airflow Fundamentals](https://img.shields.io/badge/Apache%20Airflow-Fundamentals-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+</div>
 
 ---
 
-### 🏆 Formação Acadêmica
+---
 
-#### 🎓 **Pós-Graduação (Master's Level)**
-- **Curso:** Modelagem Científica e Tecnológica
-- **Instituições:** UNIFAL-MG (Universidade Federal de Alfenas) & CEFET-MG
-- **Período:** 2018 - 2020
-- **Status:** ✅ Concluído
+## 🏆 Formação Acadêmica
 
-#### 🎓 **MBA - Master of Business Administration**
-- **Curso:** Business Intelligence & Analytics
-- **Instituição:** Xperiun | Data Analytics
-- **Período:** Fevereiro 2025 - Fevereiro 2026
-- **Status:** 🔄 Em Curso
+<div align="center">
 
-#### 🎓 **Graduação**
-- **Curso:** Análise e Desenvolvimento de Sistemas
-- **Instituição:** Grupo Educacional UNIS
-- **Período:** 2016 - 2018
-- **Destaque:** 🏅 Honra ao Mérito Universitário
+| 🎓 Nível | 📚 Curso | 🏫 Instituição | 📅 Período | ✅ Status |
+|:---:|---|---|:---:|---|
+| **MBA** | Business Intelligence & Analytics | Xperiun | 2025 - 2026 | 🔄 Em Curso |
+| **Pós-Grad** | Modelagem em C&T | UNIFAL-MG & CEFET-MG | 2018 - 2020 | ✅ Concluído |
+| **Graduação** | Análise e Dev de Sistemas | UNIS | 2016 - 2018 | 🏅 Honra ao Mérito |
+| **Técnico** | Redes de Computadores | UNIS | 2014 - 2015 | ✅ Concluído |
+| **Prof.** | Assistente Administrativo | UNIS | 2015 - 2016 | ✅ Concluído |
 
-#### 🎓 **Formação Técnica**
-- **Técnico em Redes de Computadores** (2014 - 2015) - UNIS
-- **Profissionalizante em Assistente Administrativo** (2015 - 2016) - UNIS
+</div>
+
+---
 
 ### 🎯 Sistemas & Plataformas
 
