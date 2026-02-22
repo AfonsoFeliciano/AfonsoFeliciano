@@ -341,7 +341,8 @@ Profissional de TI com **10+ anos de experiência**, sendo **7+ anos dedicados �
 
 | 🎓 Nível | 📚 Curso | 🏫 Instituição | 📅 Período | ✅ Status |
 |:---:|---|---|:---:|---|
-| **MBA** | Business Intelligence & Analytics | Xperiun | 2025 - 2026 | 🔄 Em Curso |
+| **MBA** | Engenharia de Dados e Inteligência Artificial | Xperiun | 2026 - 2027 | 🔄 Em Curso |
+| **MBA** | Business Intelligence & Analytics | Xperiun | 2025 - 2026 | ✅ Concluído |
 | **Pós-Grad** | Modelagem em C&T | UNIFAL-MG & CEFET-MG | 2018 - 2020 | ✅ Concluído |
 | **Graduação** | Análise e Dev de Sistemas | UNIS | 2016 - 2018 | 🏅 Honra ao Mérito |
 | **Técnico** | Redes de Computadores | UNIS | 2014 - 2015 | ✅ Concluído |
@@ -607,27 +608,18 @@ Architect and implement scalable data solutions with high performance and robust
 
 ### 🏆 Academic Background
 
-#### 🎓 **Post-Graduate (Master's Level)**
-- **Course:** Scientific and Technological Modeling
-- **Institutions:** UNIFAL-MG (Federal University of Alfenas) & CEFET-MG
-- **Period:** 2018 - 2020
-- **Status:** ✅ Completed
+<div align="center">
 
-#### 🎓 **MBA - Master of Business Administration**
-- **Course:** Business Intelligence & Analytics
-- **Institution:** Xperiun | Data Analytics
-- **Period:** February 2025 - February 2026
-- **Status:** 🔄 In Progress
+| 🎓 Level | 📚 Course | 🏫 Institution | 📅 Period | ✅ Status |
+|:---:|---|---|:---:|---|
+| **MBA** | Data Engineering & Artificial Intelligence | Xperiun | 2026 - 2027 | 🔄 In Progress |
+| **MBA** | Business Intelligence & Analytics | Xperiun | 2025 - 2026 | ✅ Completed |
+| **Post-Grad** | Scientific & Technological Modeling | UNIFAL-MG & CEFET-MG | 2018 - 2020 | ✅ Completed |
+| **Bachelor** | Systems Analysis & Development | UNIS | 2016 - 2018 | 🏅 Merit Award |
+| **Technical** | Computer Networks | UNIS | 2014 - 2015 | ✅ Completed |
+| **Prof.** | Administrative Assistant | UNIS | 2015 - 2016 | ✅ Completed |
 
-#### 🎓 **Bachelor's Degree**
-- **Course:** Systems Analysis and Development
-- **Institution:** Grupo Educacional UNIS
-- **Period:** 2016 - 2018
-- **Highlight:** 🏅 University Merit Award
-
-#### 🎓 **Technical Education**
-- **Computer Networks Technician** (2014 - 2015) - UNIS
-- **Administrative Assistant Professional Training** (2015 - 2016) - UNIS
+</div>
 
 ### 💡 Soft Skills
 - Multitasking ability
